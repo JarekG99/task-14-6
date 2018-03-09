@@ -1,0 +1,28 @@
+
+.app {
+  margin:  70px auto;
+  width: 70vw;
+  height: 70vh;
+  background-color: gray;
+  border: 2px solid #000;
+  text-align: center;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.btn {
+  width: 250px;
+  min-height: 50px;
+  margin: 20px;
+  background-color: #00B1DB;
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+}
+.counter {
+  padding: 20px;
+  vertical-align: middle;
+}
